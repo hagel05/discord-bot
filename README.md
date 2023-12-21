@@ -1,0 +1,1 @@
+Initial README for a discord bot.  Very much inprogress will update readme when ready.
